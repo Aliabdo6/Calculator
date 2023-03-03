@@ -21,7 +21,7 @@ function App() {
   return (
     <>
       <div className="one" >
-        <h1>Design by <a href="https://www.linkedin.com/in/aliabdo6/">Ali Abdo </a></h1>
+        <h1>Created by <a href="https://www.linkedin.com/in/aliabdo6/">Ali Abdo </a></h1>
         <h2>Calculator App</h2>
       </div>
       <div className="calculator">
